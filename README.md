@@ -1,2 +1,2 @@
 # RESTfulApp
-RESTful Application containing several services
+RESTful Web Service containing several web application services
